@@ -1,5 +1,5 @@
 {
-  "name": "node-sdk",
+  "name": "baidu-ai",
   "version": "1.2.0",
   "description": "SDK for baidu ai plateform ,see: ai.baidu.com",
   "main": "src/index.js",
@@ -13,5 +13,9 @@
     "iconv-lite": "^0.4.15",
     "request": "^2.79.0",
     "underscore": "^1.8.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjamin555/baidu-ai.git"
   }
 }
